@@ -22,7 +22,8 @@ This project leverages Power BI to analyze AtliQ Grands' operational and financi
 
 # Live Dashboard
 Explore the live dashboard here: 
-(https://app.powerbi.com/groups/me/reports/1d65fd2b-49b0-4b35-9e73-9e48182878c6/fdbd53840c04809c8d27?experience=power-bi)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTczNDM2N2MtZDI3Mi00ZjA1LWE3ODgtNjY2YzI1N2NlZDhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 # Dashboard Insights
 
